@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Log my name
-        run: echo "Ali Abdihakim
+        run: echo "Ali Abdihakim"
